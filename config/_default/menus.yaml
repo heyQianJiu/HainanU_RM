@@ -42,7 +42,7 @@ main:
     weight: 50
 
   
-  #- name: 电控
-  #  parent: 文档
-  #  url: /文档/电控/
-  #  weight: 10
+  - name: 电控
+    parent: Blog
+    url: /Blog/电控/
+    weight: 10
